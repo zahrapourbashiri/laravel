@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Virgoul';
+    src: url('Virgoul.eot');
+    src: url('Virgoul.eot?#iefix') format('embedded-opentype'),
+        url('Virgoul.woff2') format('woff2'),
+        url('Virgoul.woff') format('woff'),
+        url('Virgoul.ttf') format('truetype'),
+        url('Virgoul.svg#Virgoul') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Virgoul';
+    src: url('Virgoul-Bold.eot');
+    src: url('Virgoul-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Virgoul-Bold.woff2') format('woff2'),
+        url('Virgoul-Bold.woff') format('woff'),
+        url('Virgoul-Bold.ttf') format('truetype'),
+        url('Virgoul-Bold.svg#Virgoul-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
